@@ -1,0 +1,13 @@
+![alt text](07-01-EKS-Service.png)
+![alt text](07-02-EKS-CreateCluster-usingCreateClusterButton.png
+![alt text](07-03-CreatingCluster-EKSCTL.png
+![alt text](07-04-EKS-CTL-CreatedClusterSuccesfully.png
+![alt text](07-05-EKS-Cluster-In-UI.jpg
+![alt text](07-06-EKS-Cluster-DashBoard.png
+07-07-EKS-Cluster-UpdatingKubeConfigFileFromTermail.png
+07-08-EKS-k8s-yaml.png
+07-09-EKS-k8s-yaml-applying.png
+07-10-EKS-k8s-ShowcasingCluster-and-Pods.png
+07-11-EKS-GettingServiceUsingKubeCTL.png
+07-12-EKS-Showingcase-DeployedApplication.png
+07-13-EKS-DeletingTheCluster.png
